@@ -1,0 +1,7 @@
+G:\INTERNSHIP\visual_studio_projects\Practice\Practice\bin\Debug\Practice.exe.config
+G:\INTERNSHIP\visual_studio_projects\Practice\Practice\bin\Debug\Practice.exe
+G:\INTERNSHIP\visual_studio_projects\Practice\Practice\bin\Debug\Practice.pdb
+G:\INTERNSHIP\visual_studio_projects\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+G:\INTERNSHIP\visual_studio_projects\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+G:\INTERNSHIP\visual_studio_projects\Practice\Practice\obj\Debug\Practice.exe
+G:\INTERNSHIP\visual_studio_projects\Practice\Practice\obj\Debug\Practice.pdb
